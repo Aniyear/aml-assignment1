@@ -207,7 +207,7 @@ To ensure reproducibility:
 
 ## Author
 
-Independent Research Scientist and Machine Learning Engineer
+Baibossyn Aniyar
 
 ---
 
